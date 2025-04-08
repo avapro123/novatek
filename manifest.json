@@ -1,0 +1,11 @@
+{
+  "domain": "novatek",
+  "name": "Novatek Power Meter",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://github.com/vedga/novatek",
+  "requirements": [
+    "requests>=2.25.0"
+  ],
+  "codeowners": []
+}
